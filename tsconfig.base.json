@@ -23,6 +23,9 @@
       ],
       "@test-maya-one/common/ui": [
         "libs/common/ui/src/index.ts"
+      ],
+      "@test-maya-one/home": [
+        "libs/home/src/index.ts"
       ]
     }
   },
